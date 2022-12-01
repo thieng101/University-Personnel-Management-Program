@@ -1,9 +1,3 @@
-/*COP3330 - Professor Boustique
-  Project 2
-  Author: Hong Thy Nguyen
-  COP3330-0001 F2F: Heng Hong
-  COP3330-0V03 Online: Tianci
- */
 import java.util.Scanner;
 import java.util.Collections;
 import java.util.Comparator;
